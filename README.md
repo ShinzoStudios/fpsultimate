@@ -3,4 +3,4 @@ Hi!
 <br>
 welcome to fps ultimate!
 <br>
-<a href="https://github.com/ShinzoStudios/fpsultimate/blob/main/FpsUltimate.exe?raw=true">Download</a>
+<a href="x-github-client://openRepo/https://github.com/ShinzoStudios/fpsultimate?branch=main&filepath=FpsUltimate.exe">Download</a>
